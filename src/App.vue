@@ -8,7 +8,7 @@ import TheWelcome from './components/TheWelcome.vue'
     <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="125" height="125" />
 
     <div class="wrapper">
-      <HelloWorld msg="你真棒" />
+      <HelloWorld msg="我最棒" />
     </div>
   </header>
 
@@ -18,7 +18,7 @@ import TheWelcome from './components/TheWelcome.vue'
 </template>
 
 <style>
-@import './assets/base.css';
+@import "./assets/base.css";
 
 #app {
   max-width: 1280px;
